@@ -74,10 +74,8 @@ pip install -r requirements.txt
 - Then update line ~26 in `digital_clock.py`:
 
 ```python
-# Before (hardcoded — not it 💀)
-font_id = QFontDatabase.addApplicationFont('C://Users/samir/Desktop/.../DS-DIGIT.TTF')
 
-# After (relative path — much better ✅)
+# (Use relative path — much better ✅) and Recommended
 font_id = QFontDatabase.addApplicationFont('DS-DIGIT.TTF')
 ```
 
@@ -145,7 +143,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more info.
 ## 👤 Author
 
 **Sujal**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@itssujalcoder24](https://github.com/itssujalcoder24)
 
 ---
 
