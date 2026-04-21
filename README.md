@@ -19,9 +19,7 @@ Built as part of learning **OOP + PyQt5** in Python — specifically demonstrate
 
 ## 🖥️ Preview
 
-```
-![Clock_Demo](./Clock_Screen.png)
-```
+![Digital Clock Screenshot](assets\Clock_Screen.png)
 
 ---
 
