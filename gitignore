@@ -1,0 +1,43 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ── Virtual Environments ─────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# ── Distribution / Packaging ─────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# ── IDE / Editor ─────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── OS Junk ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── PyInstaller (if you ever bundle the app) ─────────────
+*.spec
+*.manifest
+
+# ── Logs & Temp ──────────────────────────────────────────
+*.log
+*.tmp
+*.bak
