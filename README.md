@@ -33,7 +33,7 @@ Built as part of learning **OOP + PyQt5** in Python — specifically demonstrate
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/pyqt5-digital-clock.git
+git clone https://github.com/itssujalcoder24/Digital_Clock_Demo.git
 cd pyqt5-digital-clock
 ```
 
